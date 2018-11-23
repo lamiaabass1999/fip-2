@@ -1,9 +1,14 @@
 h1 {
   color: darkred;
+  font-size: 45px;
+  text-align: center;
 }
 h2 {
-  font-style: italic;
+  font-style: oblique;
   color: grey;
+  text-align: left;
+  font-style: oblique;
+  font-size: 30px;
 }
 p {
   color: crimson;
@@ -11,8 +16,10 @@ p {
 body {
   background-color: lightpink;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
+  font-size: 20px;
 }
+
 img {
     border-radius: 8px;
 }
