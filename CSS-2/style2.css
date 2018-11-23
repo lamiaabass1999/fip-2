@@ -3,7 +3,7 @@ h1 {
 }
 h2 {
   font-style: italic;
-  color: red;
+  color: grey;
 }
 p {
   color: crimson;
@@ -17,10 +17,18 @@ img {
     border-radius: 8px;
 }
 img {
-    max-width: 75%;
-    max-height: 25%
+    max-width: 50%;
+    max-height: 50%
 }
 img {
   border-radius: 8px
-
+}
+h3 {
+  background-color: lightpink;
+  font-family: sans-serif;
+  text-align: left;
+}
+ul { background-color: lightpink;
+  font-family: sans-serif;
+  text-align: left;
 }
