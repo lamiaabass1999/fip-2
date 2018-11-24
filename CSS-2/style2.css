@@ -1,5 +1,5 @@
 h1 {
-  colour: darkred;
+  colour: violet;
   font-size: 20px
   text-align: center;
 
@@ -9,10 +9,11 @@ h2 {
   font-size: 20px;
 }
 body {
-  background-color:lightpink;
+  background-color: lightblue;
   font-family: sans-serif;
-  text-align: left;
+  text-align: center;
   font-size: 20px;
+  color: mediumvioletred;
 }
 p {image-orientation: center
   border-radius: 25px;
